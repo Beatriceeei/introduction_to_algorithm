@@ -52,4 +52,5 @@ class HeapSort():
         return A
 
 A = [4, 1, 3, 2, 16, 9, 10, 14, 8, 7]
-print HeapSort().heap_sort(A)
+# print HeapSort().heap_sort(A)
+# print HeapSort().max_heapify(A, 2)
