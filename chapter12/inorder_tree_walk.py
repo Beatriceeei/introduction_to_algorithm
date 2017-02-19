@@ -1,5 +1,7 @@
 # -*- coding:utf8 -*-
 
+# 12.1-3
+
 class Node():
     def __init__(self, x, left=None, right=None):
         self.val = x
